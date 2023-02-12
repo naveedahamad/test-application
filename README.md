@@ -11,9 +11,7 @@
 ## Specs
 - For test case coverage I am using `rspec`
   ​​
-## Links
-* [Demo](https://rutter-01.herokuapp.com/products)
-  ​
+​
 ## Explanations
 - Added request spec coverage
 - Given more time I can do the following
